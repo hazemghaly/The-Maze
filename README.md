@@ -1,10 +1,12 @@
 Maze Project ALX SE
+https://qkpage2.co/p/alxmazeproject
+
 
 Technologies:-
 libraries:-
-	SDL2 - We decided to pick SDL2 over RAYlib. Although RAYlib is a lightweight library and easier to learn compared to SDL2, SDL2 is more versatile and offers a comprehensive feature set which will help us to do more creative things in our project.
+&nbsp;&nbsp;&nbsp;&nbsp;SDL2 - We decided to pick SDL2 over RAYlib. Although RAYlib is a lightweight library and easier to learn compared to SDL2, SDL2 is more versatile and offers a comprehensive feature set which will help us to do more creative things in our project.
 frameworks:-
-	Flask - We chose to stick with Flask over other web frameworks because it is simple, minimalistic and Pythonic.
+&nbsp;&nbsp;&nbsp;&nbsp;Flask - We chose to stick with Flask over other web frameworks because it is simple, minimalistic and Pythonic.
 languages:-
 	C
 	Python
